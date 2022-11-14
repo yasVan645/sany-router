@@ -1,0 +1,39 @@
+{
+  "name": "san-router",
+  "version": "1.0.0",
+  "description": "A simple Javascript Single-Page Application (SPA) router library.\\",
+  "main": "index.js",
+  "engines": {
+    "node": "node >=7.8.0"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasVan645/san-router.git"
+  },
+  "keywords": [
+    "router",
+    "javascript",
+    "router",
+    "spa",
+    "router",
+    "SPA",
+    "single",
+    "page",
+    "app",
+    "san-router",
+    "router.js"
+  ],
+  "author": "yasvan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yasVan645/san-router/issues"
+  },
+  "homepage": "https://github.com/yasVan645/san-router#readme"
+}
